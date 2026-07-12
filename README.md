@@ -14,13 +14,9 @@
 
 ### 🚀 About Me
 
-I am a senior developer and true tech enthusiast dedicated to building scalable, high-performance systems. As a polyglot programmer, I adapt to any environment or paradigm, though I maintain a deep appreciation for low-level system architecture and execution speed.
+I am a developer and true tech enthusiast dedicated to building scalable, high-performance systems. , I adapt to any environment or paradigm, though I maintain a deep appreciation for low-level system architecture and execution speed.
 
-* ⚙️ **Engineering Focus:** Language-agnostic problem solving, advanced system architecture, and deep-dive **C programming**.
-* 🎬 **Content Creation:** Crafting high-energy, analytical video game reviews for **YouTube Shorts**. 
-* 🎮 **AFK Pursuits:** Navigating the unpredictable waters of **Sea of Thieves** or getting fully immersed in **GTA 5 FiveM roleplay**.
-* 📫 **Reach out to me:** [Insert your professional email here]
-
+* ⚙️ **Engineering Focus:** Language-agnostic problem solving, advanced system architecture, and deep-dive **programming**.
 ---
 
 ### 💻 Arsenal & Tech Stack

@@ -1,4 +1,4 @@
-content = """# Hi there, I'm Pranav P. Kulkarni 👋 
+# Hi there, I'm Pranav P. Kulkarni 👋 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hardware+Meets+Software;Engineering+Student;Systems+%26+Prototype+Designer" alt="Typing SVG" />
@@ -18,17 +18,21 @@ I am an engineer who operates at the intersection of bits and atoms. I believe t
 ## 🛠️ The Arsenal (Skills & Technologies)
 
 ### 💻 Languages & Core Logic
-![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
 ### 🌐 Web & Databases
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
 
 ### ⚙️ Systems, Design & Hardware Prototyping
 * **Core & Advanced Java Frameworks** | Data Structures & Algorithms (DSA)
@@ -41,14 +45,20 @@ I am an engineer who operates at the intersection of bits and atoms. I believe t
 ## 🏗️ Project Blueprints
 
 ### 🔌 Hardware Systems (Where Software Meets Atoms)
-1. **[Hardware Project 1 Name]** * *Brief description of the circuit/microcontroller system and its real-world function.*
-2. **[Hardware Project 2 Name]** * *Detailing the physical mechanics, sensor integration, and logic controller used.*
-3. **[Hardware Project 3 Name]** * *Highlighting the core structural prototyping and structural/firmware design.*
+1. **[Hardware Project 1 Name]**  
+   * *Brief description of the circuit/microcontroller system and its real-world function.*
+2. **[Hardware Project 2 Name]**  
+   * *Detailing the physical mechanics, sensor integration, and logic controller used.*
+3. **[Hardware Project 3 Name]**  
+   * *Highlighting the core structural prototyping and structural/firmware design.*
 
 ### 💾 Software Systems (Pure Logic & Architecture)
-1. **[Software Project 1 Name]** * *An implementation of Core/Advanced Java or Python managing complex logic systems.*
-2. **[Software Project 2 Name]** * *A full stack application using modern web frameworks paired with a robust database.*
-3. **[Software Project 3 Name]** * *An optimization script or DSA-heavy engine designed for high performance.*
+1. **[Software Project 1 Name]**  
+   * *An implementation of Core/Advanced Java or Python managing complex logic systems.*
+2. **[Software Project 2 Name]**  
+   * *A full stack application using modern web frameworks paired with a robust database.*
+3. **[Software Project 3 Name]**  
+   * *An optimization script or DSA-heavy engine designed for high performance.*
 
 ---
 
@@ -66,7 +76,7 @@ I actively test my system concepts under pressure. Here are the arenas where I�
 
 Let's build something that bridges the digital and physical worlds.
 
-<p align="left">
+<p align="center">
   <a href="https://pranavpkulkarnii.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Globe&logoColor=white" alt="Portfolio" />
   </a>
@@ -93,9 +103,3 @@ Let's build something that bridges the digital and physical worlds.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavpkulkarnii&theme=tokyonight" alt="GitHub Streak" />
 </p>
-"""
-
-with open('README.md', 'w', encoding='utf-8') as f:
-    f.write(content)
-
-print("File written successfully")

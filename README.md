@@ -1,83 +1,101 @@
-<!-- HEADER SECTION -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Kulkarni%20Pranav%20Prahalad&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Senior%20Software%20Developer%20%7C%20Polyglot%20%7C%20Creator&descAlignY=70&descAlign=62" alt="Header Wave" />
-</div>
+content = """# Hi there, I'm Pranav P. Kulkarni 👋 
 
-<div align="center">
-  <p align="center">
-    <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  </p>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hardware+Meets+Software;Engineering+Student;Systems+%26+Prototype+Designer" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-I am a developer and true tech enthusiast dedicated to building scalable, high-performance systems. , I adapt to any environment or paradigm, though I maintain a deep appreciation for low-level system architecture and execution speed.
+I am an engineer who operates at the intersection of bits and atoms. I believe the most impactful innovations happen **where hardware meets software**. With a deep background in electronics, system design, and physical prototype construction, I don't just write code that lives in the cloud—I build systems that interact with the physical world.
 
-* ⚙️ **Engineering Focus:** Language-agnostic problem solving, advanced system architecture, and deep-dive **programming**.
----
-
-### 💻 Arsenal & Tech Stack
-
-<div align="center">
-  
-  **Programming Languages** <br>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <br>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <br>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala" />
-  <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" alt="Perl" />
-  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=nasm&logoColor=white" alt="Assembly" />
-  <br><br>
-  
-  **Infrastructure & Tools** <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <br><br>
-
-  **Databases** <br>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-
-</div>
+* 🎓 **Current Focus:** Engineering student diving deep into full-stack software architectures and embedded ecosystems.
+* 🛠️ **Philosophy:** If it has an operating system, I've broken it, fixed it, and optimized it. If it doesn't have one, I'll build the hardware to run it.
 
 ---
 
-### 📈 GitHub Analytics
+## 🛠️ The Arsenal (Skills & Technologies)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranavpkulkarnii&show_icons=true&theme=transparent&hide_border=true&title_color=00599C&icon_color=00599C&text_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranavpkulkarnii&theme=transparent&hide_border=true&title_color=00599C&icon_color=00599C&text_color=ffffff" alt="GitHub Streak" />
-</div>
+### 💻 Languages & Core Logic
+![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranavpkulkarnii&bg_color=transparent&color=00599C&line=00599C&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="80%" />
-</div>
+### 🌐 Web & Databases
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranavpkulkarnii&label=Profile%20Views&color=00599C&style=for-the-badge" alt="Profile views" />
-</div>
+### ⚙️ Systems, Design & Hardware Prototyping
+* **Core & Advanced Java Frameworks** | Data Structures & Algorithms (DSA)
+* **System Modification & Architecture:** Custom OS kernel tweaking, hardware abstraction, and custom system provisioning.
+* **Hardware Prototyping:** Microcontrollers, circuit design, sensor integration, and structural prototyping.
+* **OS & Environment Agnostic:** Fully adapted to **every single environment**—Linux, Windows, Unix architectures, and bare-metal environments. If it boots, I can build on it.
+
+---
+
+## 🏗️ Project Blueprints
+
+### 🔌 Hardware Systems (Where Software Meets Atoms)
+1. **[Hardware Project 1 Name]** * *Brief description of the circuit/microcontroller system and its real-world function.*
+2. **[Hardware Project 2 Name]** * *Detailing the physical mechanics, sensor integration, and logic controller used.*
+3. **[Hardware Project 3 Name]** * *Highlighting the core structural prototyping and structural/firmware design.*
+
+### 💾 Software Systems (Pure Logic & Architecture)
+1. **[Software Project 1 Name]** * *An implementation of Core/Advanced Java or Python managing complex logic systems.*
+2. **[Software Project 2 Name]** * *A full stack application using modern web frameworks paired with a robust database.*
+3. **[Software Project 3 Name]** * *An optimization script or DSA-heavy engine designed for high performance.*
+
+---
+
+## 🏆 Battlegrounds & Milestones
+
+I actively test my system concepts under pressure. Here are the arenas where I’ve pushed my engineering limits:
+
+* 🧠 **CodeMind AI Hackathon** – Developed intelligent automated layers and logic integrations.
+* 💡 **MindSpark Ideathon** – Pitched and structured high-level concepts resolving complex systemic friction.
+* 🛡️ **CHAKRAVYUH 2.0** – Competed in intense technological scenarios requiring speed, code structural integrity, and tactical problem-solving.
+
+---
+
+## 🤝 Connect & Collaborate
+
+Let's build something that bridges the digital and physical worlds.
+
+<p align="left">
+  <a href="https://pranavpkulkarnii.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Globe&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/pranav-kulkarni-a24b823a9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pranavprahaldkulkarni2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 📊 Git Metrics & Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavpkulkarnii&show_icons=true&theme=tokyonight&count_private=true" alt="Pranav's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpkulkarnii&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavpkulkarnii&theme=tokyonight" alt="GitHub Streak" />
+</p>
+"""
+
+with open('README.md', 'w', encoding='utf-8') as f:
+    f.write(content)
+
+print("File written successfully")

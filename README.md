@@ -87,19 +87,3 @@ Let's build something that bridges the digital and physical worlds.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
-
-## 📊 Git Metrics & Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavpkulkarnii&show_icons=true&theme=tokyonight&count_private=true" alt="Pranav's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpkulkarnii&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavpkulkarnii&theme=tokyonight" alt="GitHub Streak" />
-</p>

@@ -45,20 +45,12 @@ I am an engineer who operates at the intersection of bits and atoms. I believe t
 ## 🏗️ Project Blueprints
 
 ### 🔌 Hardware Systems (Where Software Meets Atoms)
-1. **[Hardware Project 1 Name]**  
-   * *Brief description of the circuit/microcontroller system and its real-world function.*
-2. **[Hardware Project 2 Name]**  
-   * *Detailing the physical mechanics, sensor integration, and logic controller used.*
-3. **[Hardware Project 3 Name]**  
-   * *Highlighting the core structural prototyping and structural/firmware design.*
-
-### 💾 Software Systems (Pure Logic & Architecture)
-1. **[Software Project 1 Name]**  
-   * *An implementation of Core/Advanced Java or Python managing complex logic systems.*
-2. **[Software Project 2 Name]**  
-   * *A full stack application using modern web frameworks paired with a robust database.*
-3. **[Software Project 3 Name]**  
-   * *An optimization script or DSA-heavy engine designed for high performance.*
+1. **[Smart gas sensor]**  
+   * *The best sensor for home safety from gas explosion*
+2. **[Smart fire sensor]**  
+   * *The best fire detector Quick response time and Immediate call for assistance*
+3. **[Smart waste management]**  
+   * *smart waste management which is everyone's problem now days*
 
 ---
 

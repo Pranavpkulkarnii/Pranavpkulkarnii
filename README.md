@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I am an engineer who operates at the intersection of bits and atoms. I believe the most impactful innovations happen **where hardware meets software**. With a deep background in electronics, system design, and physical prototype construction, I don't just write code that lives in the cloud—I build systems that interact with the physical world.
+I am an engineer who operates at the intersection of bits and atoms. I believe the most impactful innovations happen **where hardware meets software**. With a deep background in electronics, system design, and physical prototype construction, I don't just write code that lives in the cloud I build systems that interact with the physical world.
 
 * 🎓 **Current Focus:** Engineering student diving deep into full-stack software architectures and embedded ecosystems.
 * 🛠️ **Philosophy:** If it has an operating system, I've broken it, fixed it, and optimized it. If it doesn't have one, I'll build the hardware to run it.
